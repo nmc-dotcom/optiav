@@ -1,0 +1,6 @@
+{
+  "name": "OPTIAV - 간편 동영상 편집기",
+  "description": "설치 없이 브라우저에서 안전하게 동영상을 자르고 변환하는 웹 기반 비디오 편집·인코딩 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
